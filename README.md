@@ -4,7 +4,7 @@
 
 Submitted by: **Karen Guo**
 
-Time spent: **X** 3
+Time spent: **3** 
 
 ## User Stories
 
